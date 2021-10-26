@@ -14,4 +14,3 @@ KortingsbonWaarde = 0.50
 totaal = AantalCroissantjes * CroissantPrijs + AantalStokbroden * StokbroodPrijs - AantalKortingsbonnen * KortingsbonWaarde
 
 print(txt, totaal)
- 
